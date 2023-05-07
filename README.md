@@ -15,8 +15,11 @@ The program then searches for the ending character and returns the secret messag
 
 Before using Most Secure Bit, make sure to install the Pillow package which is used to handle images:
 
-> python3 -m pip install pillow
+`python3 -m pip install pillow`
 
-Once installed, simply launch the "main.py" file and follow the console-based menu to hide or retrieve your secret message.
+Once installed, clone the repository using :<br>
+`git clone https://github.com/Natounet/MostSecretBit.git`
+
+Then simply launch the "main.py" file and follow the console-based menu to hide or retrieve your secret message.
 
 ![](https://github.com/Natounet/MostSecureBit/blob/main/menu.gif)
